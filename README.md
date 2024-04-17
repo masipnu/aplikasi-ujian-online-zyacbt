@@ -1,4 +1,4 @@
 # aplikasi-ujian-online-zyacbt
 Sourcecode Aplikasi Ujian Online
 
-['Sumber']('https://achmadlutfi.wordpress.com/zya-cbt-aplikasi-ujian-online/')
+Forked from [Achmad Lutfi](https://achmadlutfi.wordpress.com/zya-cbt-aplikasi-ujian-online/)
